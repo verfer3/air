@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-BOT_NAME = "BText"
-BOT_NICKNAME = "Btexts_bot"
-BOT_TOKEN = "591062071:AAHPgpZkXQIOq46C3VgKid52V6jJ3i1QZRg"
+BOT_NAME = "NEXAirdripBot"
+BOT_NICKNAME = "NEXAirdrip_Bot"
+BOT_TOKEN = "693694501:AAFwpJQ4WFJlSAfgqZ8BfkgP1WrYKamwP_Q"
 ADMIN = 1
 
 MESSAGES = {
