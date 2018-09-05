@@ -21,7 +21,7 @@ https://twitter.com/neonexchange
 """,
 	"START": "Invite your friends to join airdrop: https://t.me/"+BOT_NICKNAME+"?start=%s\nGet 1 NEX for every 1 friend!\nYour points: %s\nInvited friends: %s",
 	"REGISTRATION_COMPLETED": "Registration completed.",
-	"EARNED_POINTS": "User joined with your referral link.\nYou earned <b>5 NCH</b>.",
+	"EARNED_POINTS": "User joined with your referral link.\nYou earned <b>1 NEX</b>.",
 	"SEND_ADDRESS": "Send your NEO address.",
 	"WRONG_ADDRESS": "Wrong address format, retry.",
 }
