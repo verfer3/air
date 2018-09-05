@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 BOT_NAME = "NEXAirdripBot"
-BOT_NICKNAME = "NEXAirdrip_Bot"
-BOT_TOKEN = "693694501:AAFwpJQ4WFJlSAfgqZ8BfkgP1WrYKamwP_Q"
+BOT_NICKNAME = "NEXAirdripOfficialBot"
+BOT_TOKEN = "609607297:AAEty0Pni8bwXgs-FOpNK93UOtRsKp1muXc"
 ADMIN = 1
 
 MESSAGES = {
