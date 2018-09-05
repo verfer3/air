@@ -10,11 +10,11 @@ Hello %s! Thanks for joining NEX Airdrop
 To get the NEX you must follow our instructions
 
 1. Enter your NEO address 
-2. Join Channel : 
-https://t.me/NeonExchangeNEX
-3. Follow Twitter : 
+ 
+2. Follow Twitter : 
 https://twitter.com/neonexchange
-4. How to withdraw NEX?
+
+3. How to withdraw NEX?
  http://bit.ly/Withdraw-NEX-Airdrop 
 
 """,
