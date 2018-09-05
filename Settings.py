@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-BOT_NAME = "NEOCashAirdropBot"
-BOT_NICKNAME = "NEOCashAirdrop2Bot"
-BOT_TOKEN = "546691766:AAHina2q9jb8pIBJD3eKjPG4IECATBV_tqU"
+BOT_NAME = "BText"
+BOT_NICKNAME = "Btexts_bot"
+BOT_TOKEN = "591062071:AAHPgpZkXQIOq46C3VgKid52V6jJ3i1QZRg"
 ADMIN = 1
 
 MESSAGES = {
