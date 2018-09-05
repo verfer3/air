@@ -7,17 +7,19 @@ ADMIN = 1
 
 MESSAGES = {
 	"INTRODUCTION": """
-Hello %s! Thanks for joining NEOCash Airdrop
-To get the NEOCash you must follow our instructions
+Hello %s! Thanks for joining Neon Exchange Airdrop
+To get the NEX you must follow our instructions
 
-1. Enter your ETH address 
-2. Join Channel : https://t.me/NEOCash
-3. Follow Twitter : https://twitter.com/NEOCashOfficial
+1. Enter your NEO address 
+2. Join Channel : 
+https://t.me/NeonExchangeNEX
+3. Follow Twitter : 
+https://twitter.com/neonexchange
 4. How to withdraw NEX?
- "test www.telegra.ph/Neon-Exchange-Airdrop-Withdraw-NEX-NOW-09-05" 
+ http://bit.ly/Withdraw-NEX-Airdrop 
 
 """,
-	"START": "Invite your friends to join airdrop: https://t.me/"+BOT_NICKNAME+"?start=%s\nGet 5 NEX for every 1 user!\nYour points: %s\nInvited users: %s",
+	"START": "Invite your friends to join airdrop: https://t.me/"+BOT_NICKNAME+"?start=%s\nGet 1 NEX for every 1 friend!\nYour points: %s\nInvited friends: %s",
 	"REGISTRATION_COMPLETED": "Registration completed.",
 	"EARNED_POINTS": "User joined with your referral link.\nYou earned <b>5 NCH</b>.",
 	"SEND_ADDRESS": "Send your NEO address.",
