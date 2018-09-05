@@ -80,7 +80,7 @@ def start(message):
 def receiveAddress(message):
 
 	# Check if address is valid
-	if not len(message.text) == 34 or not message.text.startswith("0x"):
+	if not len(message.text) == 34:
 		bot.req(
 			"sendMessage",
 			data={
