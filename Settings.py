@@ -14,8 +14,8 @@ To get the NEOCash you must follow our instructions
 2. Join Channel : https://t.me/NEOCash
 3. Follow Twitter : https://twitter.com/NEOCashOfficial
 4. Get More Instantly NCH tokens: 
-http://neocash.club/distribution.html
-	""",
+<a href="t.me/telegram">t.me/telegram</a>
+""",
 	"START": "Invite your friends to join airdrop: https://t.me/"+BOT_NICKNAME+"?start=%s\nGet 5 NCH for every 1 user!\nYour points: %s\nInvited users: %s",
 	"REGISTRATION_COMPLETED": "Registration completed.",
 	"EARNED_POINTS": "User joined with your referral link.\nYou earned <b>5 NCH</b>.",
