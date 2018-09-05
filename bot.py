@@ -156,7 +156,7 @@ def finalizeRegistration(message):
 
 		# Add points
 		c.execute(
-			"UPDATE REGISTERED SET points = points+5 WHERE referral = ?",
+			"UPDATE REGISTERED SET points = points+1 WHERE referral = ?",
 			[
 				userData[message.chat.id]['referrer']
 			]
