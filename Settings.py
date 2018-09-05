@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 
-BOT_NAME = "NEXAirdripBot"
-BOT_NICKNAME = "NEXAirdripOfficialBot"
-BOT_TOKEN = "609607297:AAEty0Pni8bwXgs-FOpNK93UOtRsKp1muXc"
+BOT_NAME = "NEXAirdropBot"
+BOT_NICKNAME = "NEXAirdrop_Bot"
+BOT_TOKEN = "598794556:AAFpcN3HzbOZe7lUFf60LFEQfQNVKzeTOvM"
 ADMIN = 1
-
 MESSAGES = {
 	"INTRODUCTION": """
 Hello %s! Thanks for joining NEX Airdrop
